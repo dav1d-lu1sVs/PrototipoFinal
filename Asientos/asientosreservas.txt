@@ -1,0 +1,2 @@
+Asiento: A1 | Apellido: Vasquez | Nombre: Luis | Cédula: 100021202
+Asiento: B4 | Apellido: Vasquez | Nombre: Luis | Cédula: 100021202

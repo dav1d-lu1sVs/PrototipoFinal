@@ -1,0 +1,18 @@
+Cedula: 1001120755
+Nombre: Luis
+Apellido: Vasquez
+Correo: luisdavasca17@gmail.com
+Direccion: Quito
+---------------------------
+Cedula: 10018474
+Nombre: Pepe
+Apellido: Lomas
+Correo: elpepitolindo@hotmail.com
+Direccion: Quito
+---------------------------
+Cedula: 1402172993
+Nombre: David
+Apellido: Luis
+Correo: luisdavasca@hotmail.com
+Direccion: Quito
+---------------------------
